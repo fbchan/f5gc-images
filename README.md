@@ -1,4 +1,4 @@
-# Free5gc Stage3 for Kubernetes
+# Free5gc Stage3 for Kubernetes on F5 UDF
 
 This repo are forked and modified from the following repo. Credit goes to them as they did the hard work. 
 https://github.com/sumichaaan/free5gc-k8s
