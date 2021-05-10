@@ -6,10 +6,13 @@ https://github.com/free5gc/free5gc-compose
 
 QuickStart
 01 - Free5gc UDF Env Walkthrough
+
 https://youtu.be/OtaTF093lQQ
 
 02 - Free5gc UDF Architecture Pattern #1
+
 https://youtu.be/KaC6ce_P3mM
 
 03 - Free5gc UDF Architecture Pattern #2
+
 https://youtu.be/dchiuVVAZr0
