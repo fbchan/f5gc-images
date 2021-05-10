@@ -1,6 +1,15 @@
 # Free5gc Stage3 for Kubernetes
-The free5GC is an open-source project for 5th generation (5G) mobile core networks. The ultimate goal of this project is to implement the 3GPP Release 15 (R15) and Release 16 (R16) 5G core network (5GC).
 
-This repository aims to install dockerized free5gc stage3 and ride on kubernetes.
+This repo are forked and modified from the following repo. Credit goes to them as they did the hard work. 
+https://github.com/sumichaaan/free5gc-k8s
+https://github.com/free5gc/free5gc-compose
 
-NOTE: Can work at version `5.0.0-23-generic` to run UPF(GTP5G Module.)
+QuickStart
+01 - Free5gc UDF Env Walkthrough
+https://youtu.be/OtaTF093lQQ
+
+02 - Free5gc UDF Architecture Pattern #1
+https://youtu.be/KaC6ce_P3mM
+
+03 - Free5gc UDF Architecture Pattern #2
+https://youtu.be/dchiuVVAZr0
